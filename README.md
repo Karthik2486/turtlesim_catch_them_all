@@ -49,23 +49,35 @@ https://user-images.githubusercontent.com/84374586/235299511-d41b1fd3-ccc6-497c-
 
 1. Clone this repository to your local machine:
 ```bash:
-git clone https://github.com/Karthik2486/ROS-Mobile-Robot-1.git
+git clone https://github.com/Karthik2486/turtlesim_catch_them_all.git
 ```
 
-2. Build the package using catkin_make:
+2. Build the package using colcon build in your workspace:
 ```bash:
-catkin_make
+colcon build --packages-select turtlesim_catch_them_all 
+
+```
+```bash:
+colcon build --packages-select turtlesim_bringup 
+
+```
+```bash:
+colcon build --packages-select turtlesim_interfaces 
+
 ```
 
 3. Source the ROS environment:
 ```shell
-$ source devel/setup.bash
+ source .bashrc
 ```
 
 4. Launch the simulation:
 ```shell
-$ roslaunch kb_car2_description gazebo.launch
+ ros2 launch turtlesim_bringup turtlesim_catch_them_all.launch.py 
+
 ```
 
+### Note:
+"I completed this project using ROS2 Foxy, so to fully understand this project, you should have a basic understanding of ROS2."
 
 
