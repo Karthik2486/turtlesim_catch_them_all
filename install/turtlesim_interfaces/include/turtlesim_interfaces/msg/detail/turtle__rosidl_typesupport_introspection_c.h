@@ -1,0 +1,1 @@
+/home/karthik/turtlesim_ws/build/turtlesim_interfaces/rosidl_typesupport_introspection_c/turtlesim_interfaces/msg/detail/turtle__rosidl_typesupport_introspection_c.h

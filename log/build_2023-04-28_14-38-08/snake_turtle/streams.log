@@ -1,0 +1,37 @@
+[0.568s] Invoking command in '/home/karthik/turtlesim_ws/src/snake_turtle': PYTHONPATH=/home/karthik/turtlesim_ws/build/snake_turtle/prefix_override:/home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snake_turtle build --build-base /home/karthik/turtlesim_ws/build/snake_turtle/build install --record /home/karthik/turtlesim_ws/build/snake_turtle/install.log --install-scripts $base/lib/snake_turtle --single-version-externally-managed
+[0.745s] running egg_info
+[0.745s] creating ../../build/snake_turtle/snake_turtle.egg-info
+[0.746s] writing ../../build/snake_turtle/snake_turtle.egg-info/PKG-INFO
+[0.746s] writing dependency_links to ../../build/snake_turtle/snake_turtle.egg-info/dependency_links.txt
+[0.746s] writing entry points to ../../build/snake_turtle/snake_turtle.egg-info/entry_points.txt
+[0.746s] writing requirements to ../../build/snake_turtle/snake_turtle.egg-info/requires.txt
+[0.746s] writing top-level names to ../../build/snake_turtle/snake_turtle.egg-info/top_level.txt
+[0.748s] writing manifest file '../../build/snake_turtle/snake_turtle.egg-info/SOURCES.txt'
+[0.774s] reading manifest file '../../build/snake_turtle/snake_turtle.egg-info/SOURCES.txt'
+[0.775s] writing manifest file '../../build/snake_turtle/snake_turtle.egg-info/SOURCES.txt'
+[0.775s] running build
+[0.775s] running build_py
+[0.776s] creating /home/karthik/turtlesim_ws/build/snake_turtle/build
+[0.776s] creating /home/karthik/turtlesim_ws/build/snake_turtle/build/lib
+[0.776s] creating /home/karthik/turtlesim_ws/build/snake_turtle/build/lib/snake_turtle
+[0.776s] copying snake_turtle/turtle_controller.py -> /home/karthik/turtlesim_ws/build/snake_turtle/build/lib/snake_turtle
+[0.776s] copying snake_turtle/__init__.py -> /home/karthik/turtlesim_ws/build/snake_turtle/build/lib/snake_turtle
+[0.776s] running install
+[0.776s] running install_lib
+[0.777s] creating /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle
+[0.777s] copying /home/karthik/turtlesim_ws/build/snake_turtle/build/lib/snake_turtle/turtle_controller.py -> /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle
+[0.777s] copying /home/karthik/turtlesim_ws/build/snake_turtle/build/lib/snake_turtle/__init__.py -> /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle
+[0.777s] byte-compiling /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle/turtle_controller.py to turtle_controller.cpython-38.pyc
+[0.779s] byte-compiling /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle/__init__.py to __init__.cpython-38.pyc
+[0.779s] running install_data
+[0.779s] creating /home/karthik/turtlesim_ws/install/snake_turtle/share/ament_index
+[0.779s] creating /home/karthik/turtlesim_ws/install/snake_turtle/share/ament_index/resource_index
+[0.779s] creating /home/karthik/turtlesim_ws/install/snake_turtle/share/ament_index/resource_index/packages
+[0.780s] copying resource/snake_turtle -> /home/karthik/turtlesim_ws/install/snake_turtle/share/ament_index/resource_index/packages
+[0.780s] copying package.xml -> /home/karthik/turtlesim_ws/install/snake_turtle/share/snake_turtle
+[0.780s] running install_egg_info
+[0.781s] Copying ../../build/snake_turtle/snake_turtle.egg-info to /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle-0.0.0-py3.8.egg-info
+[0.781s] running install_scripts
+[0.795s] Installing turtlesim_controller script to /home/karthik/turtlesim_ws/install/snake_turtle/lib/snake_turtle
+[0.795s] writing list of installed files to '/home/karthik/turtlesim_ws/build/snake_turtle/install.log'
+[0.812s] Invoked command in '/home/karthik/turtlesim_ws/src/snake_turtle' returned '0': PYTHONPATH=/home/karthik/turtlesim_ws/build/snake_turtle/prefix_override:/home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snake_turtle build --build-base /home/karthik/turtlesim_ws/build/snake_turtle/build install --record /home/karthik/turtlesim_ws/build/snake_turtle/install.log --install-scripts $base/lib/snake_turtle --single-version-externally-managed

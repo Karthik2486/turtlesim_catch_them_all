@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating turtlesim_catch_them_all.egg-info
+writing turtlesim_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/site.py
+Creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+Installing turtlesim_controller script to /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+
+Installed /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all
+running install_data
+creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index
+creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+copying resource/turtlesim_catch_them_all -> /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+copying package.xml -> /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all

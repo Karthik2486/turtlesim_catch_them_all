@@ -1,0 +1,25 @@
+[0.516s] Invoking command in '/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all': PYTHONPATH=/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/prefix_override:/home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/build --no-deps install_data
+[0.712s] running develop
+[0.870s] running egg_info
+[0.870s] creating turtlesim_catch_them_all.egg-info
+[0.870s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.870s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.871s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.871s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[0.871s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[0.871s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.896s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.897s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.925s] running build_ext
+[0.925s] Creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/site.py
+[0.927s] Creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[0.928s] Installing turtlesim_controller script to /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.928s] 
+[0.928s] Installed /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all
+[0.928s] running install_data
+[0.929s] creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index
+[0.929s] creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[0.929s] creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.929s] copying resource/turtlesim_catch_them_all -> /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.929s] copying package.xml -> /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[0.952s] Invoked command in '/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all' returned '0': PYTHONPATH=/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/prefix_override:/home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/build --no-deps install_data

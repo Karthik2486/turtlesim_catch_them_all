@@ -1,0 +1,21 @@
+[0.523s] Invoking command in '/home/karthik/turtlesim_ws/src/snake_turtle': PYTHONPATH=/home/karthik/turtlesim_ws/build/snake_turtle/prefix_override:/home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snake_turtle build --build-base /home/karthik/turtlesim_ws/build/snake_turtle/build install --record /home/karthik/turtlesim_ws/build/snake_turtle/install.log --install-scripts $base/lib/snake_turtle --single-version-externally-managed
+[0.703s] running egg_info
+[0.703s] writing ../../build/snake_turtle/snake_turtle.egg-info/PKG-INFO
+[0.704s] writing dependency_links to ../../build/snake_turtle/snake_turtle.egg-info/dependency_links.txt
+[0.704s] writing entry points to ../../build/snake_turtle/snake_turtle.egg-info/entry_points.txt
+[0.704s] writing requirements to ../../build/snake_turtle/snake_turtle.egg-info/requires.txt
+[0.704s] writing top-level names to ../../build/snake_turtle/snake_turtle.egg-info/top_level.txt
+[0.731s] reading manifest file '../../build/snake_turtle/snake_turtle.egg-info/SOURCES.txt'
+[0.732s] writing manifest file '../../build/snake_turtle/snake_turtle.egg-info/SOURCES.txt'
+[0.732s] running build
+[0.732s] running build_py
+[0.732s] running install
+[0.733s] running install_lib
+[0.734s] running install_data
+[0.734s] running install_egg_info
+[0.736s] removing '/home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle-0.0.0-py3.8.egg-info' (and everything under it)
+[0.736s] Copying ../../build/snake_turtle/snake_turtle.egg-info to /home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages/snake_turtle-0.0.0-py3.8.egg-info
+[0.737s] running install_scripts
+[0.750s] Installing turtlesim_controller script to /home/karthik/turtlesim_ws/install/snake_turtle/lib/snake_turtle
+[0.750s] writing list of installed files to '/home/karthik/turtlesim_ws/build/snake_turtle/install.log'
+[0.766s] Invoked command in '/home/karthik/turtlesim_ws/src/snake_turtle' returned '0': PYTHONPATH=/home/karthik/turtlesim_ws/build/snake_turtle/prefix_override:/home/karthik/turtlesim_ws/install/snake_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snake_turtle build --build-base /home/karthik/turtlesim_ws/build/snake_turtle/build install --record /home/karthik/turtlesim_ws/build/snake_turtle/install.log --install-scripts $base/lib/snake_turtle --single-version-externally-managed

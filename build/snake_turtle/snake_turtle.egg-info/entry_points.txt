@@ -1,0 +1,3 @@
+[console_scripts]
+turtlesim_controller = snake_turtle.turtle_controller:main
+

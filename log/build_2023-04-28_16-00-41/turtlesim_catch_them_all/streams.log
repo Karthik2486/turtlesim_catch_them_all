@@ -1,0 +1,18 @@
+[0.530s] Invoking command in '/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all': PYTHONPATH=/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/prefix_override:/home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/build --no-deps install_data
+[0.722s] running develop
+[0.833s] running egg_info
+[0.834s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.834s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.834s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.834s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[0.834s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[0.859s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.860s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.888s] running build_ext
+[0.888s] Creating /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[0.888s] Installing turtle_spawner script to /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.889s] Installing turtlesim_controller script to /home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.889s] 
+[0.889s] Installed /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all
+[0.889s] running install_data
+[0.909s] Invoked command in '/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all' returned '0': PYTHONPATH=/home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/prefix_override:/home/karthik/turtlesim_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/karthik/turtlesim_ws/build/turtlesim_catch_them_all/build --no-deps install_data

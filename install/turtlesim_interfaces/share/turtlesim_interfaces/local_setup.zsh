@@ -1,0 +1,1 @@
+/home/karthik/turtlesim_ws/build/turtlesim_interfaces/ament_cmake_environment_hooks/local_setup.zsh
